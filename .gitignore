@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.badger/
+*.log
+.DS_Store

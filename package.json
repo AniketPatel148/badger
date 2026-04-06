@@ -1,0 +1,32 @@
+{
+  "name": "badger-ai",
+  "version": "0.1.0",
+  "description": "AI agents that can't break your code. Safety-first agentic coding with rollback-aware execution.",
+  "type": "module",
+  "bin": {
+    "badger": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "bun build src/cli.ts --outdir dist --target node",
+    "dev": "bun run src/cli.ts",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "ai",
+    "codex",
+    "claude",
+    "coding-agent",
+    "safety",
+    "rollback",
+    "checkpoint",
+    "agentic",
+    "developer-tools"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.7.0"
+  }
+}
