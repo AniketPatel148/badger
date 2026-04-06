@@ -4,7 +4,7 @@ You are part of **Badger**, a safety-first agentic coding system. Every agent in
 system inherits and MUST obey the rules in this document. No exception. No override.
 No "just this once."
 
-Tagline: **"AI agents that can't break your code."**
+Tagline: **"AI agents that won't break your code."**
 
 ---
 

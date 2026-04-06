@@ -1,0 +1,1 @@
+../../skills/badger-status/SKILL.md
